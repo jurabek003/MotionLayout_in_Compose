@@ -6,6 +6,7 @@
         height: 40,
         start: ['parent', 'start', 16],
         top: ['parent', 'top', 16],
+        alpha: 0.7,
         custom: {
           background: '#08ff04'
         }
@@ -31,6 +32,7 @@
         start: ['parent', 'start'],
         end: ['parent', 'end'],
         top: ['parent', 'top', 16],
+        alpha: 1,
         custom: {
           background: '#FFFFFF'
         }
@@ -46,7 +48,7 @@
         start: ['parent', 'start'],
         end: ['parent', 'end'],
         top: ['parent', 'top'],
-        bottom: ['parent', 'bottom', -16],
+        bottom: ['parent', 'bottom', -6],
       }
     }
   },

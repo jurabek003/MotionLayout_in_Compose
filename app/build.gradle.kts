@@ -72,4 +72,6 @@ dependencies {
      */
     implementation ("androidx.constraintlayout:constraintlayout-compose:1.0.1")
 //    implementation ("androidx.constraintlayout:constraintlayout-compose:1.0.0")
+
+    implementation ("androidx.compose.foundation:foundation:1.6.0-alpha05")
 }
